@@ -7,6 +7,13 @@
     <groupId>org.example</groupId>
     <artifactId>laba1_OOP_KPI</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.16</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
 
 </project>
